@@ -1,4 +1,4 @@
-﻿Welcome ;-)  ;-)  ;-)  ;-)  ;-)  
+﻿# Welcome ;-)  ;-)  ;-)  ;-)  ;-)  
 
 # LiteDB - A .NET NoSQL Document Store in a single data file
 
