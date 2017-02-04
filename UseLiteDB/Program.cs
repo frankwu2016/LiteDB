@@ -18,7 +18,7 @@ namespace UseLiteDB
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("use LiteDB.");
+            Console.WriteLine("use LiteDB. branch5.");
 
             // In memory database
             //var mem = new MemoryStream();
